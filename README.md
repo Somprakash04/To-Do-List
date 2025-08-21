@@ -5,10 +5,10 @@ This app helps users manage their daily tasks efficiently with a clean and user-
 
 ---
 ## 📸 Screenshots
-
-#### Home Screen                                                                                              #### Add Task Screen
-[Home Screen](assets/images/home_screen.png)                                                                  [Add Task Screen](assets/images/add_task.png)
-
+<p align="center">
+  <img src="assets/images/home_screen.png" width="200"/>
+  <img src="assets/images/add_task.png" width="200"/>
+</p>
 
 
 ---
