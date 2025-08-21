@@ -5,11 +5,9 @@ This app helps users manage their daily tasks efficiently with a clean and user-
 
 ---
 ## 📸 Screenshots
-<p align="center">
-  <img src="assets/images/add_task.png" width="200"/>
-  <img src="assets/images/home_screen.png" width="200"/>
-</p>
-
+  ![Home Screen](https://github.com/Somprakash04/To-Do-List/blob/main/assets/image/add_task.png?raw=true)
+  ![Home Screen](https://github.com/Somprakash04/To-Do-List/blob/main/assets/image/home_screen.png?raw=true)
+  
 
 ---
 ## ✨ Features
